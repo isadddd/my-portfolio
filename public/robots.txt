@@ -1,0 +1,5 @@
+# TODO: ganti domain produksi
+User-agent: *
+Allow: /
+
+Sitemap: TODO: https://domain-produksi.com/sitemap.xml

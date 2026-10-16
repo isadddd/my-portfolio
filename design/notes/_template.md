@@ -17,10 +17,10 @@ Bagian mana memakai `brand` (merah), `ink` (hitam), `sand` (krem).
 (Screenshot memakai warna lain, jadi tulis pemetaannya di sini.)
 
 ## 5. Layout
-- Desktop (1440px):
-- Laptop (1024px):
-- Tablet (768px):
-- Mobile (375px):
+- Desktop (> 1440px):
+- Laptop (> 1024px):
+- Tablet (> 768px):
+- Mobile (> 375px):
 
 ## 6. Konten
 Teks di gambar: dipakai apa adanya atau diganti? Bagian mana yang masih dummy?
